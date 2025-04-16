@@ -15,7 +15,7 @@ server.use('/api', mainRoutes);
 server.use('/api/auth', authRoutes);
 server.use('/api/admin', adminRoutes);
 
-server.listen(5000, () => {
+server.listen(3000, () => {
   console.log('Servidor is running on... ');
 }
 );
