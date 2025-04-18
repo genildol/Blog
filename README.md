@@ -4,6 +4,31 @@
 
 ## Social
 
+Este é o backend de um blog pessoal desenvolvido com Node.js, TypeScript, Prisma ORM e PostgreSQL. Ele gerencia usuários, autenticação e postagens com controle de status. O projeto utiliza o Prisma Client para interação com o banco de dados e segue uma arquitetura modular com separação entre controllers, services e rotas.
+
+Tecnologias Utilizadas
+Node.js – Ambiente de execução para JavaScript no backend
+
+TypeScript – Superset de JavaScript com tipagem estática
+
+Express – Framework minimalista para criação da API
+
+Prisma ORM – ORM moderno e tipado para interação com o banco de dados
+
+PostgreSQL – Banco de dados relacional usado para armazenar usuários e posts
+
+TSX – Executa arquivos .ts diretamente com suporte a watch mode
+
+dotenv – Gerenciamento de variáveis de ambiente
+
+bcrypt – Criptografia de senhas
+
+jsonwebtoken (JWT) – Autenticação baseada em tokens
+
+Zod (opcional, se usar) – Validação de schemas e dados
+
+
+
 <code><img title="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"/></code>
 <code><img title="SQL" width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/></code>
 <code><img title="Composer" width="26px" src="https://cdn.worldvectorlogo.com/logos/composer.svg"/></code>
