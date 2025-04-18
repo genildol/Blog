@@ -1,12 +1,11 @@
-<p align="center">
-  <h1> Blog</h1>
+<p align="center" style=text-align:center">
+# Blog
 </p>
-
-## Social
 
 Este é o backend de um blog pessoal desenvolvido com Node.js, TypeScript, Prisma ORM e PostgreSQL. Ele gerencia usuários, autenticação e postagens com controle de status. O projeto utiliza o Prisma Client para interação com o banco de dados e segue uma arquitetura modular com separação entre controllers, services e rotas.
 
-Tecnologias Utilizadas
+# Tecnologias Utilizadas
+
 Node.js – Ambiente de execução para JavaScript no backend
 
 TypeScript – Superset de JavaScript com tipagem estática
