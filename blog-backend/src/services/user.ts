@@ -1,6 +1,5 @@
-import { Prisma } from "@prisma/client/extension";
 import bcrypt from "bcryptjs";
-import { prisma } from "../libs/prisma";
+import { prisma } from '../libs/prisma';
 
 
 type CreateUserProps = {

@@ -10,7 +10,7 @@ export const signup: RequestHandler = async (req, res) => {
   });
   const data = schema.safeParse(req.body);
   if (!data.success) {
-    res.json({ error: data.error?.flatten().fieldErrors });
+    res.json({ error: data.error.flatten().fieldErrors });
     return
   }
 
