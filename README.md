@@ -54,12 +54,6 @@ PostgreSQL – Banco de dados relacional usado para armazenar usuários e posts
 
 TSX – Executa arquivos .ts diretamente com suporte a watch mode
 
-dotenv – Gerenciamento de variáveis de ambiente
-
-bcrypt – Criptografia de senhas
-
-jsonwebtoken (JWT) – Autenticação baseada em tokens
-
 Zod (opcional, se usar) – Validação de schemas e dados
 
 
